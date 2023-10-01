@@ -1,5 +1,5 @@
 # Synthetic Staking Seward
-This repository is an implementation of a staking reward system using Synthetic's algorithm with the Scrypto programming language. It is created within the Radixdlt-Scrypto environment, which you can find [here]([https://pages.github.com/](https://github.com/radixdlt/radixdlt-scrypto)https://github.com/radixdlt/radixdlt-scrypto).
+This repository is an implementation of a staking reward system using Synthetic's algorithm with the Scrypto programming language. It is created within the Radixdlt-Scrypto environment, which you can find [here](https://github.com/radixdlt/radixdlt-scrypto).
 
 # how is it works?
 The algorithm is similar to Synthetic's:
