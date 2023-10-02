@@ -4,7 +4,7 @@ This repository is an implementation of a staking reward system using Synthetic'
 # how is it works?
 The algorithm is similar to Synthetic's:
 $$r\left(u,a,b\right) = \sum_{t=a}^b R\frac{l\left(u,t\right)}{L\left(t\right)}$$
-However, due to the gas fees associated with the operations in this equation, we have opted for a more efficient alternative:
+However, due to the gas fees associated with the operations in this equation, i use the same derived equation:
 $$=Rk\left(\sum_{t=0}^b \frac{1}{L(t)} - \sum_{t=0}^{a-1} \frac{1}{L(t)}\right)$$
 
 In this equation,
