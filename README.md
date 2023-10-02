@@ -9,7 +9,7 @@ $$=Rk\left(\sum_{t=0}^b \frac{1}{L(t)} - \sum_{t=0}^{a-1} \frac{1}{L(t)}\right)$
 
 In this equation,
 $$r\left(u,a,b\right)$$
-is a function to calculate staking rewards for user (u) where a<=u<=b. 
+is a function to calculate staking rewards for user (u) where a<=t<=b. 
 - R is a reward per epoch.
 - L(t) is a total staked token at epoch t.
 - l(u,t) is a total user's staked token at epoch t.
